@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h3 align="center">Hi 👋, I'm</h3>
+<h3 align="center">Hi👋, I'm</h3>
 <h1 align="center"><bold>Abhijay Rane</bold></h1>
 <h3 align="center">A passionate tech-enthusiast Master's student in Computer and Applied Information Systems at Cornell University, Cornell Tech in New York City</h3>
 
